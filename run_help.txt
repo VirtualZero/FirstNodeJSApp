@@ -1,0 +1,7 @@
+install nodemon to restart server when changes are made
+
+w/o nodemon
+node app_name
+
+with nodemon
+npm run script_name_from_package.json

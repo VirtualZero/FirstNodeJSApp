@@ -1,0 +1,1 @@
+When going to a route like /about, you need to add file extension like /about.html
